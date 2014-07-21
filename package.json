@@ -1,0 +1,16 @@
+{
+  "name": "iosmessagepicextractor",
+  "version": "0.0.1",
+  "description": "Extracts pictures & videos from the Messages app in an iOS Backup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Coyne <sean@n42designs.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fast-copy-file": "0.0.1",
+    "glob": "^4.0.4",
+    "mkdirp": "^0.5.0"
+  }
+}
